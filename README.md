@@ -12,7 +12,7 @@ As a seasoned Senior Full Stack Developer and DevOps Engineer, I bring over 9 ye
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caddoSmith229&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Master0show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
 
